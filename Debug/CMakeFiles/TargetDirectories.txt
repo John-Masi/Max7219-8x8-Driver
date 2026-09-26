@@ -1,0 +1,3 @@
+/home/johnmasi/STM32CubeIDE/workspace_2.2.0/MAX7219/Debug/CMakeFiles/MAX7219.dir
+/home/johnmasi/STM32CubeIDE/workspace_2.2.0/MAX7219/Debug/CMakeFiles/edit_cache.dir
+/home/johnmasi/STM32CubeIDE/workspace_2.2.0/MAX7219/Debug/CMakeFiles/rebuild_cache.dir
